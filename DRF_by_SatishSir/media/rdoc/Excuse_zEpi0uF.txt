@@ -1,0 +1,13 @@
+WORK DONE:-
+--> Successfully Render the product edit Page with the product need to be Update
+--> Succseefully applied AJAX to search the product by name, discription and by selling price
+--> Assosiated produts shown by the search bar ready to add in the bunch of max 3 product
+
+
+WORK HAVE TO DONE:-
+--> have to create new model to store added products, and have to apply AJAX on the Table of added products
+	to show on the same page withot refressing the page
+--> and with the help of foriegn key we can assosiate the added peoducts with Quotations
+
+
+
